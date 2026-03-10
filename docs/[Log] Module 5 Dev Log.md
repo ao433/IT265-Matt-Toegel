@@ -1,6 +1,6 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Abiodun Odufuye
+### Module: Dev Log 5
 
 <!-- Repeat the below as needed-->
 ### Date: [03/02/2026]
